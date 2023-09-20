@@ -14,7 +14,7 @@ https://wxpusher.zjiecode.com/admin/main
 应用管理-appToken 就是令牌 
 主题管理-TopicId 就是id
 
- * cron: 55 55 9 * * *
+ * cron: 55 50 9 * * *
 内置定时 09:59:59
 脚本定时 55 50 9 * * * 
 默认一个账号抢劵次数20次 200毫秒
